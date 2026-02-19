@@ -55,8 +55,8 @@
 - 💼 **GitHub**: [@AnoopShukla-AI](https://github.com/Anoopshukla-AI)
 - 📦 **Products**: [Gumroad](https://anoops.gumroad.com/)
 - 🎧 **Podcast**: [Anoop - Hindi AI Automation Podcast](https://open.spotify.com/show/36pgWMgonKdkgqRxFZXsX5)
-- - 👤 **LinkedIn**: [Anoop Shukla](https://www.linkedin.com/in/an-oops/)
-  - - 🌐 **Website**: [ClawOperator](https://clawoperator.ct.ws/)
+- 👤 **LinkedIn**: [Anoop Shukla](https://www.linkedin.com/in/an-oops/)
+-   🌐 **Website**: [ClawOperator](https://clawoperator.ct.ws/)
 
 ---
 
