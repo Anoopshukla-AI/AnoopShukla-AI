@@ -1,6 +1,6 @@
 # Hi there, I'm Anoop Shukla! 👋
 
-## 🚀 Senior AI Engineer | AI Automation Creator
+## 🚀 AI Engineer | AI Automation Creator
 
 > *"Building the future with AI, one automation at a time."*
 > — Created by **Anoop Shukla**
