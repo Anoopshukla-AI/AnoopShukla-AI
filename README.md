@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;LangChain+·+LangGraph+·+n8n+·+RAG;Multi-Agent+Systems+·+MCP+Protocol;2+Years+Production+AI+|+Gurugram" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;LangChain%20LangGraph%20n8n%20RAG;Multi-Agent%20Systems%20MCP%20Protocol;2%20Years%20Production%20AI%20Gurugram" alt="Typing SVG" />
 </div>
 
 <br/>
