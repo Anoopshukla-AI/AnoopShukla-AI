@@ -74,11 +74,3 @@ flowchart LR
     end
     B --> E
     C --> F
-
-
-flowchart TD
-    User -->|JWT Auth| Gateway
-    Gateway --> PolicyEngine
-    PolicyEngine --> LLM[LLM Service]
-    Gateway --> AuditLog
-    Gateway --> CostTracker
