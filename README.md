@@ -1,76 +1,113 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;LangChain%20LangGraph%20n8n%20RAG;Multi-Agent%20Systems%20MCP%20Protocol;2%20Years%20Production%20AI%20Gurugram" alt="Typing SVG" />
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Anoop+Shukla;AI+Automation+Engineer;LangGraph+%7C+n8n+%7C+MCP+Protocol;Building+Agents+That+Actually+Work" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  <b>AI Automation Engineer with 2 years of production experience in financial services — shipped 6 end‑to‑end systems including RAG pipelines, multi‑agent orchestration, and loan processing automation. Reduced manual effort by 30–50% across departments. Backed by 7 years in enterprise IT infrastructure, ensuring my AI solutions are robust, secure, and enterprise‑ready. Available immediately for full‑time, on‑roll opportunities in Gurugram / Delhi NCR.</b>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Anoopshukla-AI.Anoopshukla-AI&color=2563EB)](https://github.com/Anoopshukla-AI)
+[![GitHub followers](https://img.shields.io/github/followers/Anoopshukla-AI?label=Follow&style=social)](https://github.com/Anoopshukla-AI)
+[![Stars](https://img.shields.io/github/stars/Anoopshukla-AI?affiliations=OWNER&style=social&label=Stars)](https://github.com/Anoopshukla-AI)
+
 </div>
 
 ---
 
-## ⚙️ What I Actually Work With
+## 🚀 About Me
+
+```yaml
+Name     : Anoop Shukla
+Role     : AI Automation Engineer | Senior AI Engineer
+Location : Lucknow → Open to Gurugram / Delhi NCR
+Exp      : 2 years AI + 7 years Enterprise IT
+Focus    : Multi-Agent Systems, RAG Pipelines, Workflow Automation
+Looking  : Full-time On-roll Roles
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### AI & Agents
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### RAG & Vector
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC143C?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-### Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-
-### Infrastructure
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud AI
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats
 
-| Repo | What it does | Impact |
-|------|--------------|--------|
-| **[mcp-copilot-a2a](https://github.com/Anoopshukla-AI/mcp-copilot-a2a)** | Multi-agent pipeline using MCP + A2A Protocol. Researcher → Analyst → Writer. LangGraph stateful agents, Datadog observability, circuit-breakers, Docker. | Automated research + writing, reduced analyst workload by **35%** |
-| **[enterprise-ai-control-plane](https://github.com/Anoopshukla-AI/enterprise-ai-control-plane)** | LLM gateway with JWT auth, RBAC, policy engine, audit logging, and cost tracking. | Enabled secure AI adoption in finance, cut cloud spend by **20%** |
-| **[AI-Loan-Processing-Automation](https://github.com/Anoopshukla-AI/AI-Loan-Processing-Automation-)** | Document AI extraction, GPT-4o risk scoring, confidence-based human routing, full audit trail with reasoning chain. GuardRails AI on output layer. | Reduced manual loan review effort by **40%**, processed **10k+ docs/month** |
-| **[n8n-automation-portfolio](https://github.com/Anoopshukla-AI/n8n-automation-portfolio)** | 8 production n8n workflows: ticket classification, lead enrichment, AI email responder, RAG pipeline, CRM sync, ETL, error handler. | Automated **70% of repetitive tasks**, cut ticket triage time by **40%** |
-| **[rag-knowledge-bot](https://github.com/Anoopshukla-AI/rag-knowledge-bot)** | LangChain + ChromaDB RAG pipeline. MMR re-ranking, GuardRails AI, source citations. Served 100+ employees in production. | Reduced policy lookup time by **50%**, served **100+ employees daily** |
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoopshukla-AI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoopshukla-AI&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anoopshukla-AI&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🏗 Architecture Diagrams
+## 🏆 GitHub Trophies
 
-### mcp-copilot-a2a
-```mermaid
-flowchart LR
-    A[Researcher Agent] --> B[Analyst Agent]
-    B --> C[Writer Agent]
-    C --> D[Final Output]
-    subgraph Observability
-        E[Datadog Logs]
-        F[Circuit Breakers]
-    end
-    B --> E
-    C --> F
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anoopshukla-AI&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🤖 mcp-copilot-a2a](https://github.com/Anoopshukla-AI/mcp-copilot-a2a) | Multi-agent pipeline — Researcher → Analyst → Writer via MCP + A2A | LangGraph, NVIDIA NIM, ChromaDB |
+| [🏦 AI-Loan-Processing](https://github.com/Anoopshukla-AI/AI-Loan-Processing-Automation-) | Document AI + GPT-4o risk scoring, 10k+ docs/month | FastAPI, OpenAI, Docker |
+| [🎯 AI-Career-Copilot](https://github.com/Anoopshukla-AI/AI-Career-Copilot) | Automated job search, resume tailoring & application pipeline | n8n, Claude, Python |
+| [🛡️ enterprise-ai-control-plane](https://github.com/Anoopshukla-AI/enterprise-ai-control-plane) | LLM gateway with JWT, RBAC, audit logs — cut cloud spend 20% | FastAPI, Redis, PostgreSQL |
+| [📊 AIRADAR](https://github.com/Anoopshukla-AI/AIRADAR) | AI-powered competitive intelligence radar | LangChain, Tavily, Streamlit |
+| [⚡ n8n-automation-portfolio](https://github.com/Anoopshukla-AI/n8n-automation-portfolio) | 8 production workflows automating 70% of repetitive tasks | n8n, OpenAI, Webhooks |
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anoopshukla-AI/Anoopshukla-AI/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anoopshukla-AI/Anoopshukla-AI/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anoopshukla-AI/Anoopshukla-AI/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anoopshukla)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anoopshukla)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anoopshukla-AI)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anoopshukla-AI&color=2563EB&style=flat-square&label=Profile+Views)
+
+</div>
