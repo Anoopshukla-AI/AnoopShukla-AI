@@ -25,12 +25,29 @@ Looking  : Full-time On-roll Roles
 
 ---
 
+## 🏗️ Multi-Agent Architecture Blueprint
+
+```mermaid
+graph TD
+    A[User Request / Webhook] --> B[Orchestrator Agent / LangGraph]
+    B -->|Task Allocation| C[Researcher Agent - Tavily Search]
+    B -->|Data Extraction| D[Document AI / GPT-4o RAG]
+    C --> E[Analyst Agent - NVIDIA NIM]
+    D --> E
+    E --> F[Writer / Execution Agent - MCP Protocol]
+    F --> G[Production Action / n8n / Database]
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=chainlink&logoColor=white)
+![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-2563EB?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -53,7 +70,7 @@ Looking  : Full-time On-roll Roles
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anoopshukla-AI&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anoopshukla-AI&theme=tokyonight&hide_border=true&date_format=j%20M%5BY%5D&cache=false)](https://git.io/streak-stats)
 
 </div>
 
