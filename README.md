@@ -80,11 +80,11 @@ graph TD
 
 <div align="center">
 
-![Commits Trophy](https://img.shields.io/badge/🏆_Commits_Trophy-SSS_Rank_%282%2C478%2B_Commits%29-FFD700?style=for-the-badge&logo=github&logoColor=black)
-![Repos Trophy](https://img.shields.io/badge/📁_Repositories_Trophy-Gold_Rank_%2820_Public_Repos%29-C0C0C0?style=for-the-badge&logo=github&logoColor=black)
+![Commits Trophy](https://img.shields.io/badge/Commits_Trophy-SSS_Rank_(2%2C478%2B_Commits)-FFD700?style=for-the-badge&logo=github&logoColor=black)
+![Repos Trophy](https://img.shields.io/badge/Repositories_Trophy-Gold_Rank_(20_Public_Repos)-C0C0C0?style=for-the-badge&logo=github&logoColor=black)
 
-![Streak Trophy](https://img.shields.io/badge/🔥_Streak_Trophy-370__Days_Unbroken_Streak-22C55E?style=for-the-badge&logo=github&logoColor=white)
-![Polyglot Trophy](https://img.shields.io/badge/🌐_Polyglot_Developer-Python_•_TypeScript_•_SQL-2563EB?style=for-the-badge&logo=github&logoColor=white)
+![Streak Trophy](https://img.shields.io/badge/Streak_Trophy-370_Days_Unbroken-22C55E?style=for-the-badge&logo=github&logoColor=white)
+![Polyglot Trophy](https://img.shields.io/badge/Polyglot_Developer-Python_%E2%80%A2_TypeScript_%E2%80%A2_SQL-2563EB?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
