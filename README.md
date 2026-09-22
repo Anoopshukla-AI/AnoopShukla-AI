@@ -76,11 +76,15 @@ graph TD
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements & Trophies Showcase
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anoopshukla-AI&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits Trophy](https://img.shields.io/badge/🏆_Commits_Trophy-SSS_Rank_%282%2C478%2B_Commits%29-FFD700?style=for-the-badge&logo=github&logoColor=black)
+![Repos Trophy](https://img.shields.io/badge/📁_Repositories_Trophy-Gold_Rank_%2820_Public_Repos%29-C0C0C0?style=for-the-badge&logo=github&logoColor=black)
+
+![Streak Trophy](https://img.shields.io/badge/🔥_Streak_Trophy-370__Days_Unbroken_Streak-22C55E?style=for-the-badge&logo=github&logoColor=white)
+![Polyglot Trophy](https://img.shields.io/badge/🌐_Polyglot_Developer-Python_•_TypeScript_•_SQL-2563EB?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
